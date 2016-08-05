@@ -1,0 +1,10 @@
+C:\Users\3plgtalejandrohm\documents\visual studio 2013\Projects\TutorialEntityFramework\TutorialEntityFramework\bin\Debug\TutorialEntityFramework.exe.config
+C:\Users\3plgtalejandrohm\documents\visual studio 2013\Projects\TutorialEntityFramework\TutorialEntityFramework\bin\Debug\TutorialEntityFramework.exe
+C:\Users\3plgtalejandrohm\documents\visual studio 2013\Projects\TutorialEntityFramework\TutorialEntityFramework\bin\Debug\TutorialEntityFramework.pdb
+C:\Users\3plgtalejandrohm\documents\visual studio 2013\Projects\TutorialEntityFramework\TutorialEntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\3plgtalejandrohm\documents\visual studio 2013\Projects\TutorialEntityFramework\TutorialEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\3plgtalejandrohm\documents\visual studio 2013\Projects\TutorialEntityFramework\TutorialEntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\3plgtalejandrohm\documents\visual studio 2013\Projects\TutorialEntityFramework\TutorialEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\3plgtalejandrohm\documents\visual studio 2013\Projects\TutorialEntityFramework\TutorialEntityFramework\obj\Debug\TutorialEntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\3plgtalejandrohm\documents\visual studio 2013\Projects\TutorialEntityFramework\TutorialEntityFramework\obj\Debug\TutorialEntityFramework.exe
+C:\Users\3plgtalejandrohm\documents\visual studio 2013\Projects\TutorialEntityFramework\TutorialEntityFramework\obj\Debug\TutorialEntityFramework.pdb
